@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20635740314",
+    "project_id": "link-firebase-app",
+    "storage_bucket": "link-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20635740314:android:f3fc7aa62d0c80a656d723",
+        "android_client_info": {
+          "package_name": "com.chat.app.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2BYnRTUvayJWasMiQfPzjhMDf-R3fBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20635740314:android:1a1a3eba1cefeaf256d723",
+        "android_client_info": {
+          "package_name": "com.salabatepapo.app.salabatepapo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2BYnRTUvayJWasMiQfPzjhMDf-R3fBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
